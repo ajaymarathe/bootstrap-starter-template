@@ -1,14 +1,14 @@
 # bootstrap-starter-template
 Bootstrap Starter Template is a fully responsive template for Bootstrap lover's,  which include hero style jumbotron &amp; navbar  - Created by Bootcatch team.
 
-[![bootstrap starter template](http://preview.bootcatch.com/bootstrap-starter-template/img/starter_template.png)](http://preview.bootcatch.com/bootstrap-starter-template/)
+[![bootstrap starter template](https://raw.githubusercontent.com/ajaymarathe/bootstrap-starter-template/master/img/starter_template.png)](https://ajaymarathe.github.io/bootstrap-starter-template/index.html)
 
 
 ## About
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* http://preview.bootcatch.com/bootstrap-starter-template/
+* https://ajaymarathe.github.io/bootstrap-starter-template/index.html
 * http://bootcatch.com
 
 ## Usage
